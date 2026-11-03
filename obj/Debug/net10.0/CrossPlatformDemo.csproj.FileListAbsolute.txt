@@ -1,0 +1,15 @@
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\bin\Debug\net10.0\CrossPlatformDemo.exe
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\bin\Debug\net10.0\CrossPlatformDemo.deps.json
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\bin\Debug\net10.0\CrossPlatformDemo.runtimeconfig.json
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\bin\Debug\net10.0\CrossPlatformDemo.dll
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\bin\Debug\net10.0\CrossPlatformDemo.pdb
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\obj\Debug\net10.0\CrossPlatformDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\obj\Debug\net10.0\CrossPlatformDemo.AssemblyInfoInputs.cache
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\obj\Debug\net10.0\CrossPlatformDemo.AssemblyInfo.cs
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\obj\Debug\net10.0\CrossPlatformDemo.csproj.CoreCompileInputs.cache
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\obj\Debug\net10.0\CrossPlatformDemo.dll
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\obj\Debug\net10.0\refint\CrossPlatformDemo.dll
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\obj\Debug\net10.0\CrossPlatformDemo.pdb
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\obj\Debug\net10.0\CrossPlatformDemo.genruntimeconfig.cache
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\obj\Debug\net10.0\ref\CrossPlatformDemo.dll
+C:\Users\rsnav\Documents\C#\CrossPlatformDemo\obj\Debug\net10.0\CrossPla.E92537E5.Up2Date
